@@ -50,7 +50,7 @@ Esse é só o começo. 🚀
 ---
 
 ### 📫 Contato
-- [LinkedIn](https://linkedin.com/in/ianramos) 
+- [LinkedIn](https://linkedin.com/in/ian-ramos-) 
 
 ---
 
