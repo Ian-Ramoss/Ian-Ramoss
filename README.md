@@ -57,5 +57,5 @@ Esse é só o começo. 🚀
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="stack-tech-ianramos.png" alt="Tech Stack" height="80"/>
+  <img src="assets/stack-tech-ianramos.png" alt="Tech Stack" height="80"/>
 </p>
