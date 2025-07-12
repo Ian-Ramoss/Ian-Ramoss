@@ -1,6 +1,6 @@
 <!-- Título grande com imagem (como no exemplo) -->
 <p align="center">
-  <img src="https://github.com/seu-usuario/seu-banner.png" alt="Banner do Ian Ramos" />
+  <img src="assets/Banner-github.png" alt="Banner Ian Ramos" />
 </p>
 
 <h1 align="center">Ian Ramos 🚀</h1>
