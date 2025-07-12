@@ -3,7 +3,6 @@
   <img src="assets/Banner-github.jpg" alt="Banner Ian Ramos" />
 </p>
 
-<h1 align="center">Ian Ramos 🚀</h1>
 <h3 align="center"> Data Enthusiast | BI & Data Analytics | Empowering Decision-Making with Real-World Data</h3>
 
 ---
