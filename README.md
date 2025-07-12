@@ -7,6 +7,14 @@
 
 ---
 
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="assets/stack-tech-ianramos.png" alt="Tech Stack" height="80"/>
+</p>
+
+---
+
 ### 👋 Sobre mim
 Sou um entusiasta de dados apaixonado por transformar problemas reais em soluções visuais que geram impacto.  
 Atualmente focado em Power BI, análise de dados com SQL, Excel e estudos complementares em engenharia de dados.
@@ -53,8 +61,4 @@ Esse é só o começo. 🚀
 
 ---
 
-### 🧰 Tech Stack
 
-<p align="center">
-  <img src="assets/stack-tech-ianramos.png" alt="Tech Stack" height="80"/>
-</p>
