@@ -16,14 +16,15 @@
 ---
 
 ### 👋 Sobre mim
-Sou um entusiasta de dados apaixonado por transformar problemas reais em soluções visuais que geram impacto.  
-Atualmente focado em Power BI, análise de dados com SQL, Excel e estudos complementares em engenharia de dados.
+Formado em Análise e Desenvolvimento de Sistemas, sou um entusiasta de dados motivado por transformar problemas reais em soluções com impacto.  
+Atualmente, estou focado em Análise de Dados utilizando SQL, Power BI, Excel e Python, com estudos complementares em Engenharia de Dados.
 
-Na minha função atual, trabalho como Consultor de Tecnologia e Auditoria na EY, com foco em prevenção a fraudes em grandes instituições financeiras. Passei por projetos e funções de Mapeamento de processos e alguns tipos diferentes de auditoria, sempre voltado à instituições financeiras (pequenos, médios e grandes bancos) e Seguradoras.
+Na minha função atual, trabalho como Consultor de Tecnologia e Auditoria na EY, com foco em prevenção a fraudes em grandes instituições financeiras. 
+Participei de projetos relacionados a mapeamento de processos e auditorias diversas, sempre no contexto de bancos (de pequeno a grande porte) e seguradoras.
 
-Fora do trabalho, sigo estudando sobre dados, englobando algumas ferramentas como SQL, Power BI, Python e outras voltadas à Análise de dados e aplicando sempre os conhecimentos voltados a resolver problemas de negócio.
+Fora do trabalho, sigo aprofundando meus conhecimentos em dados e aplicando-os em projetos com foco em resolver problemas reais de negócio.
 
-Criei meu primeiro projeto completo com dados que eu mesmo gerei com IA, mas que são 100% idênticos aos dados reais e de negócio (condomínio), com base na minha última experiência profissional, entregando um dashboard completo para acompanhamento, visualização de sazonalidades e respostas rápidas a dúvidas comuns dos moradores, assim como uma oportunidade de criação de campanhas de conscientização com base nos dados apresentados.
+Recentemente, desenvolvi meu primeiro projeto completo com um dataset gerado por IA, mas 100% fiel aos dados e dinâmicas reais com base na minha experiência profissional. O resultado foi um dashboard interativo que permite visualização de sazonalidades, respostas rápidas a dúvidas recorrentes e identificação de oportunidades de campanhas de conscientização com base nos dados.
 
 Esse é só o começo. 🚀
 
@@ -41,7 +42,7 @@ Esse é só o começo. 🚀
 
 - **BI**: Power BI, DAX, Storytelling com Dados  - Em desenvolvimento
 - **Análise**: SQL, Excel Avançado, Modelagem de dados  
-- **Linguagens**: Estudando Python para automações e engenharia de dados | Java para desenvolvimento de software  
+- **Linguagens**: Estudando Python (automações/engenharia de dados) | Conhecimento em Java para desenvolvimento de software  
 - **Soft Skills**: Liderança, pensamento estratégico, foco em negócio, adaptabilidade e boa comunicação
 - **Idiomas**: Inglês intermediário
 
@@ -50,9 +51,9 @@ Esse é só o começo. 🚀
 ### 📚 Aprendizado Atual
 
 - 🔸 SQL para análise de dados, automações e insights em BI
-- 🔸 Power BI (Avançando em DAX, relatórios profissionais e projetos de negócio)
+- 🔸 Power BI: Avançando em DAX, relatórios profissionais e projetos de negócio
 - 🔸 Engenharia de Dados com Python (em paralelo)
-- 🔸 Projetos com storytelling e design de dados (visual + impacto)
+- 🔸 Aplicação prática dos conhecimentos em projetos com storytelling: visual, impacto e foco em soluções de negócio  
 
 ---
 
