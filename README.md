@@ -3,7 +3,7 @@
   <img src="assets/Banner-github.jpg" alt="Banner Ian Ramos" />
 </p>
 
-<h3 align="center"> Data Enthusiast | BI & Data Analytics | Empowering Decision-Making with Real-World Data</h3>
+<h3 align="center"> BI & Data Analytics • Inteligência Artificial • Análise e Desenvolvimento de Sistemas </h3>
 
 ---
 
@@ -23,6 +23,8 @@ Na minha função atual, trabalho como Consultor de Tecnologia e Auditoria na EY
 Participei de projetos relacionados a mapeamento de processos e auditorias diversas, sempre no contexto de bancos (de pequeno a grande porte) e seguradoras.
 
 Fora do trabalho, sigo aprofundando meus conhecimentos em dados e aplicando-os em projetos com foco em resolver problemas reais de negócio.
+
+🧠✨ E sim... gosto de usar Inteligência Artificial como parceira de trabalho sempre que posso — seja pra acelerar ideias, explorar insights ou criar visuais como esse banner cyberpunk aqui no perfil. 😎🤖
 
 Recentemente, desenvolvi meu primeiro projeto completo com um dataset gerado por IA, mas 100% fiel aos dados e dinâmicas reais com base na minha experiência profissional. O resultado foi um dashboard interativo que permite visualização de sazonalidades, respostas rápidas a dúvidas recorrentes e identificação de oportunidades de campanhas de conscientização com base nos dados.
 
