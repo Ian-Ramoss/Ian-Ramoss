@@ -36,7 +36,7 @@ Esse é só o começo. 🚀
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| **💧 Painel de Consumo de Água - Condomínio** | Projeto completo com geração de dataset sintético realista, análise de sazonalidade, dashboard interativo em Power BI oferecendo indicadores relevantes e insights de valor para a resolução de problemas de negócio. | [🔗 Acessar projeto](https://github.com/ianramos/consumo-agua-condominio) |
+| **💧 Painel de Consumo de Água - Condomínio** | Projeto completo com geração de dataset sintético realista, análise de sazonalidade, dashboard interativo em Power BI oferecendo indicadores relevantes e insights de valor para a resolução de problemas de negócio. | [🔗 Acessar projeto](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Controle-agua-condominio) |
 
 ---
 
