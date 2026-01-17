@@ -40,18 +40,20 @@ Recentemente, desenvolvi meu primeiro projeto completo com um dataset gerado por
 
 ### 🧠 Habilidades
 
-- **BI**: Power BI, DAX, Storytelling com Dados  - Em desenvolvimento
-- **Análise**: SQL, Excel Avançado, Modelagem de dados  
-- **Linguagens**: Estudando Python (automações/engenharia de dados) | Conhecimento em Java para desenvolvimento de software  
-- **Soft Skills**: Liderança, pensamento estratégico, foco em impactos positivos no negócio, adaptabilidade e boa comunicação
+- **Dados & BI**: SQL, Power BI (DAX), Storytelling com Dados
+- **Análise**: Análise exploratória, modelagem de dados, KPIs
+- **Python**: Pandas, NumPy, Scikit-learn
+- **Negócio**: Eficiência operacional, análise financeira, tomada de decisão
 - **Idiomas**: Inglês intermediário
+- **Soft Skills**: Liderança, pensamento estratégico, foco resultado, adaptabilidade, comunicação
 
 ---
 
-### 📚 Aprendizado Atual
+### 📚 Desenvolvimento Constante
 
 - 🔸 SQL para análise de dados, automações e insights em BI
 - 🔸 Power BI: Avançando em DAX, relatórios profissionais e projetos de negócio
+- 🔸 Python
 - 🔸 Aplicação prática dos conhecimentos em projetos com storytelling: visual, impacto e foco em soluções de negócio  
 
 ---
