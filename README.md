@@ -1,6 +1,6 @@
 <!-- Título grande com imagem (como no exemplo) -->
 <p align="center">
-  <img src="assets/Banner-github.jpg" alt="Banner Ian Ramos" />
+  <img src="assets/Banner-github.png" alt="Banner Ian Ramos" />
 </p>
 
 <h3 align="center"> BI & Data Analytics • Inteligência Artificial • Análise e Desenvolvimento de Sistemas </h3>
