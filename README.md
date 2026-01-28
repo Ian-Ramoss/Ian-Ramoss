@@ -35,6 +35,7 @@ Recentemente, desenvolvi meu primeiro projeto completo com um dataset gerado por
 | Projeto | Descrição | Link |
 |--------|-----------|------|
 | **💧 Painel de Consumo de Água - Condomínio** | Projeto completo com geração de dataset sintético realista, análise de sazonalidade, dashboard interativo em Power BI oferecendo indicadores relevantes e insights de valor para a resolução de problemas de negócio. | [🔗 Acessar projeto](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Controle-agua-condominio) |
+|Projetos de Cursos| Projetos realizados através de cursos em diversas plataformas e sobre algumas tecnologias (SQL, Python, Azure, etc)| [🔗 Projetos de Cursos](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Projetos_cursos)|
 
 ---
 
