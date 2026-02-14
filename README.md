@@ -60,7 +60,7 @@ Recentemente, desenvolvi meu primeiro projeto completo com um dataset gerado por
 ---
 
 ### 📫 Contato
-- [LinkedIn](https://linkedin.com/in/ian-ramos-) 
+- [LinkedIn](https://linkedin.com/in/ianramosr) 
 
 ---
 
