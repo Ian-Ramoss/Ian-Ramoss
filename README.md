@@ -3,7 +3,7 @@
   <img src="assets/Banner-github.png" alt="Banner Ian Ramos" />
 </p>
 
-<h3 align="center"> BI & Data Analytics • Inteligência Artificial • Análise e Desenvolvimento de Sistemas </h3>
+<h3 align="center"> BI & Data Analytics • Análise e Desenvolvimento de Sistemas </h3>
 
 ---
 
