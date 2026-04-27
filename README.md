@@ -3,7 +3,7 @@
   <img src="assets/Banner-github.png" alt="Banner Ian Ramos" />
 </p>
 
-<h3 align="center"> BI & Data Analytics • Análise e Desenvolvimento de Sistemas </h3>
+<h3 align="center"> Java • Python • Analytics • FSO </h3>
 
 ---
 
@@ -16,10 +16,8 @@
 ---
 
 ### 👋 Sobre mim
-Consultor na EY com 2 anos de experiência em prevenção a fraudes e auditoria 
-no setor financeiro — participei de projeto nacional abrangendo mais de 20 
-instituições financeiras, além de atuar na gestão de operações de grande banco 
-nacional criando KPIs apresentados à gestão sênior.
+Consultor na EY com mais de 3 anos de experiência no setor financeiro. Foco atual em automação de processos, integração de sistemas e desenvolvimento de software.
+Experiência prática com análise de dados, pipelines no Databricks e entrega de automação para geração de relatórios.
 
 Formado em Análise e Desenvolvimento de Sistemas, atualmente em transição para 
 Analytics com foco em Fraud & Risk Analytics para o setor financeiro.
