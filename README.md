@@ -19,10 +19,7 @@
 Consultor na EY com mais de 3 anos de experiência no setor financeiro. Foco atual em automação de processos, integração de sistemas e desenvolvimento de software.
 Experiência prática com análise de dados, pipelines no Databricks e entrega de automação para geração de relatórios.
 
-Formado em Análise e Desenvolvimento de Sistemas, atualmente em transição para 
-Analytics com foco em Fraud & Risk Analytics para o setor financeiro.
-
-Aprofundo conhecimentos em SQL, Power BI e Python aplicando-os em projetos reais 
+Formado em Análise e Desenvolvimento de Sistemas, sigo aprofundando meus conhecimentos em Desenvolvimento de software, além de SQL, Power BI e Python para dados, aplicando-os em projetos reais 
 de negócio. Uso IA como parceira de trabalho para acelerar ideias e explorar insights.
 
 ---
@@ -49,9 +46,10 @@ de negócio. Uso IA como parceira de trabalho para acelerar ideias e explorar in
 
 ### 📚 Desenvolvimento Constante
 
+- 🔸 Python: Pandas, NumPy
+- 🔸 Desenvolvimento Backend Java
 - 🔸 SQL para análise de dados, automações e insights em BI
 - 🔸 Power BI: Avançando em DAX, relatórios profissionais e projetos de negócio
-- 🔸 Python: Pandas, NumPy
 - 🔸 Aplicação prática dos conhecimentos em projetos com storytelling: visual, impacto e foco em soluções de negócio  
 
 ---
