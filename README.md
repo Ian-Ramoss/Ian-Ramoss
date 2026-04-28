@@ -1,62 +1,57 @@
-<!-- Título grande com imagem (como no exemplo) -->
-<p align="center">
-  <img src="assets/Banner-github.png" alt="Banner Ian Ramos" />
-</p>
-
-<h3 align="center"> Java • Python • Analytics • FSO </h3>
-
----
-
-### 🧰 Tech Stack
+<h2 align="center">📊 Portfólio de Análise e engenharia de Dados</h2>
 
 <p align="center">
-  <img src="assets/stack-tech-ianramos.png" alt="Tech Stack" height="80"/>
+  <em>Projetos com foco em resolver problemas reais com dados, através de dashboards interativos, análises de negócio e insights com base em ferramentas como Power BI, SQL, Excel, Python e IA.</em>
 </p>
 
 ---
 
-### 👋 Sobre mim
-Consultor na EY com mais de 3 anos de experiência no setor financeiro. Foco atual em automação de processos, integração de sistemas e desenvolvimento de software.
-Experiência prática com análise de dados, pipelines no Databricks e entrega de automação para geração de relatórios.
+## 📌 Sobre o Repositório
 
-Formado em Análise e Desenvolvimento de Sistemas, sigo aprofundando meus conhecimentos em Desenvolvimento de software, além de SQL, Power BI e Python para dados, aplicando-os em projetos reais 
-de negócio. Uso IA como parceira de trabalho para acelerar ideias e explorar insights.
+Este repositório centraliza meus projetos voltados para **Análise de Dados e Engenharia de Dados**.
 
----
-
-### 💼 Meus projetos
-
-| Projeto | Descrição | Link |
-|--------|-----------|------|
-| **🔍 Análise de Detecção de Fraudes — PaySim** | Análise exploratória de 6,3 milhões de transações mobile para identificar padrões de fraude, calcular prejuízo não detectado (R$ 11,98 Bi) e avaliar eficiência do modelo de detecção usando Matriz de Confusão. Pipeline completo no Databricks com arquitetura Bronze → Silver → Gold. | [🔗 Ver projeto](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Preven%C3%A7%C3%A3o%20a%20fraudes)
-| **💧 Painel de Consumo de Água - Condomínio** | Projeto completo com geração de dataset sintético realista, análise de sazonalidade, dashboard interativo em Power BI oferecendo indicadores relevantes e insights de valor para a resolução de problemas de negócio. | [🔗 Acessar projeto](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Controle-agua-condominio) |
-|Projetos de Cursos| Projetos realizados através de cursos em diversas plataformas e sobre algumas tecnologias (SQL, Python, Azure, etc)| [🔗 Projetos de Cursos](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Projetos_cursos)|
+Os projetos aqui presentes utilizam dados reais ou sintéticos com base em experiências de negócio e cursos, e têm como foco a **tomada de decisão baseada em dados**, seja por meio de análises exploratórias, construção de dashboards ou aplicação de IA para insights acionáveis.
 
 ---
 
-### 🧠 Habilidades
+## 🧠 Tecnologias Utilizadas
 
-- **Dados & BI**: SQL, Power BI (DAX), Storytelling com Dados
-- **Análise**: Análise exploratória, modelagem de dados, KPIs
-- **Negócio**: Eficiência operacional, análise financeira, tomada de decisão
-- **Idiomas**: Inglês intermediário
-- **Soft Skills**: Liderança, pensamento estratégico, foco resultado, adaptabilidade, comunicação
-
----
-
-### 📚 Desenvolvimento Constante
-
-- 🔸 Python: Pandas, NumPy
-- 🔸 Desenvolvimento Backend Java
-- 🔸 SQL para análise de dados, automações e insights em BI
-- 🔸 Power BI: Avançando em DAX, relatórios profissionais e projetos de negócio
-- 🔸 Aplicação prática dos conhecimentos em projetos com storytelling: visual, impacto e foco em soluções de negócio  
+- Power BI (DAX, Dashboards, Storytelling)
+- SQL (Análise, modelagem e extração)
+- Excel Avançado
+- Python para dados (em desenvolvimento)
+- Inteligência Artificial (assistência, geração e simulação)
+- Versionamento com Git/GitHub
 
 ---
 
-### 📫 Contato
-- [LinkedIn](https://linkedin.com/in/ianramosr) 
+## 🧪 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Link |
+|--------|-----------|-------------|------|
+| 🤖 **Bot de Escala de Trabalho — Telegram** | Desenvolvimento de um bot no Telegram utilizando Python para visualizar e gerenciar escalas de trabalho, solucionando um problema real de conciliação entre duas jornadas distintas (24h e 12h). Permite consultas por dia, semana, mês e ano, automatizando a rotina e melhorando a organização pessoal. | Python, Telegram Bot API, APScheduler, pytz | [🔗 Ver projeto](https://github.com/Ian-Ramoss/ianramos-tech-lab/tree/main/Projetos-pessoais/bot_escala_de_trabalho)
+| 🔍 **Análise de Detecção de Fraudes — PaySim** | Análise exploratória de 6,3 milhões de transações mobile para identificar padrões de fraude, calcular prejuízo não detectado (R$ 11,98 Bi) e avaliar eficiência do modelo de detecção usando Matriz de Confusão. | Databricks, SQL, Power BI | [🔗 Ver projeto](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Prevenção%20a%20fraudes) |
+| 💧 **Painel de Consumo de Água - Condomínio** | Painel interativo criado para gestão e análise do consumo de água em um condomínio com 2 torres e 300 apartamentos, utilizando dados simulados com base em experiência real de gestão condominial. | Power BI, DAX, IA | [🔗 Ver projeto](https://github.com/Ian-Ramoss/ianramos-data-portfolio/tree/main/Controle-agua-condominio) |
+
+> 🔍 Quer ver projetos de cursos e estudos práticos?  
+> 👉 [Acesse aqui](./Projetos_cursos)
 
 ---
 
+## 🧪 REPOSITÓRIOS
 
+- [Tech Lab](https://github.com/Ian-Ramoss/ianramos-tech-lab) -- Laboratório pessoal de estudos, experimentações, códigos de cursos e ideias em desenvolvimento.
+- [Data Portfolio](https://github.com/Ian-Ramoss/ianramos-data-portfolio) -- Projetos com foco em resolver problemas reais com dados, através de dashboards interativos, análises de negócio e insights com base em ferramentas como Power BI, SQL, Excel, Python e IA.
+
+
+## 👨‍💻 Sobre mim
+Consultor na EY com 2 anos de experiência em prevenção a fraudes e auditoria 
+no setor financeiro — tendo participado de projeto nacional abrangendo mais 
+de 20 instituições financeiras via FEBRABAN.
+
+Atuando também na gestão de operações de grande banco nacional, conduzindo 
+alocação de recursos e criando KPIs apresentados à gestão sênior.
+
+Atualmente em transição para Analytics, com boa bagagem em Fraud & Risk Analytics 
+para o setor financeiro.
+---
