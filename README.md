@@ -44,11 +44,9 @@ Enquanto isso, abaixo estão alguns projetos desenvolvidos anteriormente em outr
 🔸App Engine
 🔸Business Process Automation
 🔸Financial Services
-🔸SQL
-🔸Python
-🔸Power BI
-🔸Soft Skills
 🔸Inglês intermediário
+🔸SQL
+🔸DataBricks
 
 ---
 
