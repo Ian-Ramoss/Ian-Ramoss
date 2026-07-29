@@ -28,7 +28,7 @@ Por estar construindo projetos pessoais específicos para a plataforma, os repos
 Enquanto isso, abaixo estão alguns projetos desenvolvidos anteriormente em outras tecnologias que representam minha base técnica em desenvolvimento, automação e análise de dados.
 
 
-#### Projetos
+### Outras Tecnologias
 | Nome | Descrição | Link |
 |--------|-----------|------|
 | 🤖 **Bot de Escala de Trabalho — Telegram** | Desenvolvimento de um bot no Telegram utilizando Python para visualizar e gerenciar escalas de trabalho, solucionando um problema real de conciliação entre duas jornadas distintas (24h e 12h). Permite consultas por dia, semana, mês e ano, automatizando a rotina e melhorando a organização pessoal. | [🔗 Ver projeto](https://github.com/Ian-Ramoss/ianramos-tech-lab/tree/main/Projetos-pessoais/bot_escala_de_trabalho) 
